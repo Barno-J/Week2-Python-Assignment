@@ -7,20 +7,15 @@ my_list.append(20)
 my_list.append(30)
 my_list.append(40)
 
-print(my_list)
-
 #question 3
 my_list.insert(1, 15)
-print(my_list)
 
 #question 4
 another_list= [50, 60,70]
 my_list.extend(another_list)
-print(my_list)
 
 #question 5
 my_list.pop()
-print(my_list)
 
 #question 6
 my_list.sort()
